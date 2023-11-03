@@ -1,0 +1,14 @@
+{
+    "name": "com.ldk.playfab-editor-extension",
+    "version": "1.0.0",
+    "displayName": "Playfab Editor Extension",
+    "description": "Playfab Editor Extension for Unity. SDK Version: 1.0.0",
+    "unity": "2021.3",
+    "icon": ".icon.png",
+    "keywords": [ "playfab", "playfab-editor-extension"],
+    "author": {
+        "name": "Ludu",
+        "email": "info@luduarts.com",
+        "url": "https://luduarts.com"
+    }
+}
